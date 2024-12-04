@@ -47,6 +47,6 @@
 
 ###
 
-<p> align="left">Software engineering student<br>23 years old<br>With a desire to live the infinite </p>
+<p>align="left"Software engineering student<br>23 years old<br>With a desire to live the infinite</p>
 
 ###
