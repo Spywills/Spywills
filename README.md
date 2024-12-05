@@ -48,7 +48,7 @@
 ###
 
 <div style="text-align: left;">
-  <p><strong>Software Engineering Student</strong></p>
+  <p>Software Engineering StudentS</p>
   <p>23 years old</p>
   <p>With a desire to live the infinite</p>
 </div>
